@@ -1,7 +1,7 @@
 # Python Projects with Various application
 
 1.Sentimental analysis
-Image classification
-Natural Language Process(NLP)
-Oject detection and Semantic segmentation with custom dataset
-Time Series Forecasting
+2.Image classification
+3.Natural Language Process(NLP)
+4.Oject detection and Semantic segmentation with custom dataset
+5.Time Series Forecasting
