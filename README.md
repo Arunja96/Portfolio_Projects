@@ -1,4 +1,4 @@
-# Python Projects with Various application
+# Python Projects with Various Application
 
 1.Sentimental analysis
 2.Image classification
